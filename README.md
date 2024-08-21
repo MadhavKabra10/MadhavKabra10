@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MadhavKabra10
-- 👀 I’m passionate about full-stack Java development and constantly learning new things in this field. Welcome to my GitHub profile!
+- 👀 I’m passionate about Java development and constantly learning new things in this field. Welcome to my GitHub profile!
 - 🌱 I’m currently learning advanced Spring Boot techniques and microservices architecture
 - 💞️ I’m looking to collaborate on any interesting java project
 - 📫 How to reach me ...
